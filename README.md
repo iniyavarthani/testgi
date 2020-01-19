@@ -1,2 +1,2 @@
 # testgi
-test reposit
+test repository git commend demo
